@@ -38,7 +38,7 @@
   "devDependencies": {
     "@types/cheerio": "0.22.24",
     "@types/got": "9.6.11",
-    "@types/koa": "2.13.1",
+    "@types/koa": "2.13.3",
     "@vuepress/plugin-back-to-top": "1.8.2",
     "@vuepress/plugin-google-analytics": "1.8.2",
     "@vuepress/plugin-pwa": "1.8.2",
@@ -75,7 +75,7 @@
     "chrono-node": "2.2.6",
     "city-timezones": "^1.2.0",
     "crypto-js": "4.0.0",
-    "currency-symbol-map": "4.0.4",
+    "currency-symbol-map": "5.0.1",
     "dayjs": "1.10.3",
     "dotenv": "8.5.1",
     "emailjs-imap-client": "3.1.0",
